@@ -15,7 +15,11 @@ after apocalypse
 3. audio
    * pulseeffects
 
-4. Misc
+4. Anaconda
+   * DL packages
+   * Install Kernels For Jupyter
+
+5. Misc
    * system
      * chrome
      * unity tweak tool
